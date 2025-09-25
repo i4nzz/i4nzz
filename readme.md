@@ -1,6 +1,6 @@
 # 👋 Opa, eu sou o Ian!
-🎓 Estudante de Sistemas de Informação  
-💻 Esse é meu GitHub pessoal  
+🎓 Estudante de Sistemas de Informação e Dev Junior. Tenho 21 anos.
+💻 Esse é meu GitHub pessoal.
 
 ---
 
@@ -16,15 +16,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <!-- SQL Server -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/>
+  <!-- SQL Server (alternativa) -->
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="sqlserver" width="40" height="40"/>
+  <!-- PHP -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 </p>
 
 ---
 
+### 👤 Sobre mim
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/ian-rodrigues-bitencourt/)
+
+---
+
 ### 📊 Estatísticas
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=i4nzz&show_icons=true&theme=tokyonight)  
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=i4nzz&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=i4nzz&show_icons=true&theme=tokyonight" alt="stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i4nzz&layout=compact&theme=tokyonight" alt="langs"/>
+</p>
 
 ---
 
@@ -33,4 +43,6 @@ Ser especialista em **Full Stack e Data**
 
 ---
 
-<img src="https://i.pinimg.com/originals/20/16/3c/20163c0028d430df6756e61f9fa146f0.gif" width="200"/>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/20/16/3c/20163c0028d430df6756e61f9fa146f0.gif" width="200"/>
+</p>
