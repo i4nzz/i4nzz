@@ -1,7 +1,7 @@
 # 👋 Opa, eu sou o Ian!
-🎓 Estudante de Sistemas de Informação e Dev Junior Tenho 21 anos
+🎓Tenho 21 anos e sou
+Estudante de Sistemas de Informação e Dev Junior <br>
 💻 Esse é meu GitHub pessoal
-
 ---
 
 ### 🚀 Tecnologias que uso:
