@@ -35,9 +35,7 @@ Estudante de Sistemas de Informação e Dev Junior <br>
 
 ### 📊 Estatísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=i4nzz&show_icons=true&theme=tokyonight" alt="stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i4nzz&layout=compact&theme=tokyonight" alt="langs"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=i4nzz&theme=tokyo-night" />
 </p>
 
 ---
