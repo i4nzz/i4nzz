@@ -24,8 +24,8 @@ Estudante de Sistemas de Informação e Dev Junior <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <!-- SQL Server (alternativa) -->
   <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="sqlserver" width="40" height="40"/>
-  <!-- PHP -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <!-- Py -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="php" width="40" height="40"/>
 </p>
 
 ---
