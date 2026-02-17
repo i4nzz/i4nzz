@@ -1,3 +1,5 @@
+![Space Shooter](./assets/space-shooter.gif)
+
 # 👋 Opa, eu sou o Ian!
 🎓Tenho 21 anos e sou
 Estudante de Sistemas de Informação e Dev Junior <br>
